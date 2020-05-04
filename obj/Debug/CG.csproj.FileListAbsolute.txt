@@ -17,3 +17,4 @@ C:\Users\HPZ220\source\repos\CG\obj\Debug\CG.csproj.CoreCompileInputs.cache
 C:\Users\HPZ220\source\repos\CG\obj\Debug\CG.exe
 C:\Users\HPZ220\source\repos\CG\obj\Debug\CG.pdb
 C:\Users\HPZ220\source\repos\CG\obj\Debug\CG.Calculadora.resources
+C:\Users\HPZ220\source\repos\CG\obj\Debug\CG.csprojAssemblyReference.cache

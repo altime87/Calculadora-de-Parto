@@ -88,6 +88,7 @@
             // 
             // textBox1
             // 
+            this.textBox1.Enabled = false;
             this.textBox1.Font = new System.Drawing.Font("Verdana", 14F, System.Drawing.FontStyle.Bold);
             this.textBox1.Location = new System.Drawing.Point(788, 269);
             this.textBox1.Name = "textBox1";
@@ -96,6 +97,7 @@
             // 
             // textBox2
             // 
+            this.textBox2.Enabled = false;
             this.textBox2.Font = new System.Drawing.Font("Verdana", 14F, System.Drawing.FontStyle.Bold);
             this.textBox2.Location = new System.Drawing.Point(788, 463);
             this.textBox2.Name = "textBox2";
